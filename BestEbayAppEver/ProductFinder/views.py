@@ -7,7 +7,7 @@ import SearchForm
 def search(request):
     if request.method == 'POST':  # If the form has been submitted...
         product = str(request.POST['product'])  # look for variable product in POST
-        return render('searchResults.html', {'output': product})  # Redirect after POST
+        return render_to_response('searchResults.html', {'output': product}) 
     else:
         return render(request, 'home.html')
 
