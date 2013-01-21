@@ -1,0 +1,12 @@
+<h1>Best Ebay App Ever</h1>
+
+<form action="/search/" method="post">
+    {{ form.non_field_errors }}
+    <div class="fieldWrapper">
+        {{ form.product.errors }}
+        <label for="id_product">Search for something:</label>
+               <input type="text" name="product">
+        {{ form.product }}
+    </div>
+<input type="submit" value="Submit" />
+</form>
