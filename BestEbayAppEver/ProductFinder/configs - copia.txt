@@ -1,0 +1,8 @@
+{
+"Developer" : "VALUE",
+"Application" : "VALUE",
+"Certificate" : "VALUE",
+"URL" : "VALUE",
+"DefaultURL" : "VALUE",
+"Directory" : "VALUE"
+}

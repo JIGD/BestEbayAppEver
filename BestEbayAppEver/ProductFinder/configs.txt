@@ -1,0 +1,1 @@
+{"Certificate": "VALUE", "Application": "VALUE", "DefaultURL": "VALUE", "URL": "tist", "Directory": "VALUE", "Developer": "VALUE"}
