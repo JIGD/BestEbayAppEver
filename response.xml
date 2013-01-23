@@ -2,7 +2,7 @@
 <findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
 	<ack>Success</ack>
 	<version>1.12.0</version>
-	<timestamp>2013-01-23T09:53:46.670Z</timestamp>
+	<timestamp>2013-01-23T10:06:29.076Z</timestamp>
 	<searchResult count="5">
 		<item>
 			<itemId>180902627821</itemId>
@@ -38,7 +38,7 @@
 				<currentPrice currencyId="USD">5.99</currentPrice>
 				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
 				<sellingState>Active</sellingState>
-				<timeLeft>P11DT21H42M7S</timeLeft>
+				<timeLeft>P11DT21H29M24S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
@@ -57,49 +57,50 @@
 			<topRatedListing>true</topRatedListing>
 		</item>
 		<item>
-			<itemId>130838110102</itemId>
-			<title>COOL LOTR Tungsten Carbide Band Rings Silver Color Size 7</title>
+			<itemId>181066128677</itemId>
+			<title>LEGO The Lord of the Rings:  Attack on Weathertop 9472 New Sealed Unopened</title>
 			<globalId>EBAY-US</globalId>
 			<primaryCategory>
-				<categoryId>67681</categoryId>
-				<categoryName>Rings</categoryName>
+				<categoryId>19011</categoryId>
+				<categoryName>Other</categoryName>
 			</primaryCategory>
-			<galleryURL>http://thumbs3.ebaystatic.com/m/mZOMW-hoS0cojixNk15op_Q/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/COOL-LOTR-Tungsten-Carbide-Band-Rings-Silver-Color-Size-7-/130838110102?pt=Gemstone_Rings</viewItemURL>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mG-5ddsqP8DRhOm0SQlyzWg/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/LEGO-Lord-Rings-Attack-Weathertop-9472-New-Sealed-Unopened-/181066128677?pt=Building_Toys_US</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<location>China</location>
-			<country>CN</country>
+			<postalCode>29841</postalCode>
+			<location>North Augusta,SC,USA</location>
+			<country>US</country>
 			<shippingInfo>
-				<shippingServiceCost currencyId="USD">5.99</shippingServiceCost>
+				<shippingServiceCost currencyId="USD">15.0</shippingServiceCost>
 				<shippingType>Flat</shippingType>
-				<shipToLocations>Worldwide</shipToLocations>
+				<shipToLocations>US</shipToLocations>
 				<expeditedShipping>false</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
 				<handlingTime>1</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">9.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">9.99</convertedCurrentPrice>
+				<currentPrice currencyId="USD">34.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">34.99</convertedCurrentPrice>
 				<bidCount>0</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT0H6M45S</timeLeft>
+				<timeLeft>P0DT2H49M56S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-20T10:00:31.000Z</startTime>
-				<endTime>2013-01-23T10:00:31.000Z</endTime>
+				<startTime>2013-01-20T12:56:25.000Z</startTime>
+				<endTime>2013-01-23T12:56:25.000Z</endTime>
 				<listingType>Auction</listingType>
 				<gift>false</gift>
 			</listingInfo>
-			<returnsAccepted>true</returnsAccepted>
+			<returnsAccepted>false</returnsAccepted>
 			<condition>
-				<conditionId>1500</conditionId>
-				<conditionDisplayName>New without tags</conditionDisplayName>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
 			</condition>
 			<isMultiVariationListing>false</isMultiVariationListing>
-			<topRatedListing>true</topRatedListing>
+			<topRatedListing>false</topRatedListing>
 		</item>
 		<item>
 			<itemId>360566648017</itemId>
@@ -129,7 +130,7 @@
 				<convertedCurrentPrice currencyId="USD">39.99</convertedCurrentPrice>
 				<bidCount>1</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT16H51M21S</timeLeft>
+				<timeLeft>P0DT16H38M38S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
@@ -181,7 +182,7 @@
 				<currentPrice currencyId="USD">5.99</currentPrice>
 				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
 				<sellingState>Active</sellingState>
-				<timeLeft>P11DT21H42M7S</timeLeft>
+				<timeLeft>P11DT21H29M24S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
@@ -226,7 +227,7 @@
 				<convertedCurrentPrice currencyId="USD">39.0</convertedCurrentPrice>
 				<bidCount>9</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT7H47M2S</timeLeft>
+				<timeLeft>P0DT7H34M19S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
