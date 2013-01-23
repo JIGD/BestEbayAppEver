@@ -3,6 +3,7 @@ from django.views.decorators.csrf import csrf_exempt
 import SearchForm
 import DoRequest
 import XmlParser
+import ConfigReader
 
 
 @csrf_exempt
@@ -13,8 +14,7 @@ def search(request):
         items = XmlParser.processMessage(results)
         return render_to_response('searchResults.html', {'items': items, 'searchTerm': product})
     else:
-        return render(request, 'home.html')
-
+        return render_to_response('home.html')
 
 def home(request):
     form = SearchForm
@@ -22,6 +22,13 @@ def home(request):
         'form': form,
     })
 
+def configs(request):
+    url = ConfigReader.getConfig('URL')
+    default_url = ConfigReader.getConfig('DefaultURL')
+    return render_to_response('configs.html', {'url': url, 'default_url': default_url})
 
-def searchResults(request, results):
-    return render('searchResults.html', results)
+def modifyConfigs(request):
+    if request.method == 'POST':
+        new_url = str(request.POST['url'])
+        ConfigReader.setConfig('URL', new_url)
+    return render('home.html')

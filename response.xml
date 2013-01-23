@@ -2,99 +2,48 @@
 <findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
 	<ack>Success</ack>
 	<version>1.12.0</version>
-	<timestamp>2013-01-23T10:06:29.076Z</timestamp>
+	<timestamp>2013-01-23T19:23:07.186Z</timestamp>
 	<searchResult count="5">
 		<item>
-			<itemId>180902627821</itemId>
-			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
-			<globalId>EBAY-US</globalId>
+			<itemId>300848944521</itemId>
+			<title>Lord of the Rings Two Towers King Theoden Action Figure</title>
+			<globalId>EBAY-ENCA</globalId>
 			<primaryCategory>
-				<categoryId>67681</categoryId>
-				<categoryName>Rings</categoryName>
+				<categoryId>75708</categoryId>
+				<categoryName>TV, Movie &amp; Video Games</categoryName>
 			</primaryCategory>
-			<secondaryCategory>
-				<categoryId>10297</categoryId>
-				<categoryName>Other</categoryName>
-			</secondaryCategory>
-			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947223</viewItemURL>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mr4R9KFp0Rr14YAypbgfGDQ/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Rings-Two-Towers-King-Theoden-Action-Figure-/300848944521?pt=US_Action_Figures</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<location>Hong Kong</location>
-			<country>HK</country>
+			<postalCode>T8N2A4</postalCode>
+			<location>Canada</location>
+			<country>CA</country>
 			<shippingInfo>
-				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-				<shippingType>Free</shippingType>
-				<shipToLocations>US</shipToLocations>
-				<shipToLocations>CA</shipToLocations>
-				<shipToLocations>AU</shipToLocations>
-				<shipToLocations>JP</shipToLocations>
-				<shipToLocations>Europe</shipToLocations>
+				<shippingType>Calculated</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
 				<expeditedShipping>false</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>1</handlingTime>
+				<handlingTime>4</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">5.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
+				<currentPrice currencyId="USD">9.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">9.99</convertedCurrentPrice>
+				<bidCount>0</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P11DT21H29M24S</timeLeft>
+				<timeLeft>P0DT0H15M1S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
-				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2012-06-09T07:30:53.000Z</startTime>
-				<endTime>2013-02-04T07:35:53.000Z</endTime>
-				<listingType>FixedPrice</listingType>
+				<buyItNowAvailable>true</buyItNowAvailable>
+				<buyItNowPrice currencyId="USD">13.99</buyItNowPrice>
+				<convertedBuyItNowPrice currencyId="USD">13.99</convertedBuyItNowPrice>
+				<startTime>2013-01-18T19:38:08.000Z</startTime>
+				<endTime>2013-01-23T19:38:08.000Z</endTime>
+				<listingType>AuctionWithBIN</listingType>
 				<gift>false</gift>
 			</listingInfo>
 			<returnsAccepted>true</returnsAccepted>
-			<condition>
-				<conditionId>1500</conditionId>
-				<conditionDisplayName>New without tags</conditionDisplayName>
-			</condition>
-			<isMultiVariationListing>true</isMultiVariationListing>
-			<topRatedListing>true</topRatedListing>
-		</item>
-		<item>
-			<itemId>181066128677</itemId>
-			<title>LEGO The Lord of the Rings:  Attack on Weathertop 9472 New Sealed Unopened</title>
-			<globalId>EBAY-US</globalId>
-			<primaryCategory>
-				<categoryId>19011</categoryId>
-				<categoryName>Other</categoryName>
-			</primaryCategory>
-			<galleryURL>http://thumbs2.ebaystatic.com/m/mG-5ddsqP8DRhOm0SQlyzWg/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/LEGO-Lord-Rings-Attack-Weathertop-9472-New-Sealed-Unopened-/181066128677?pt=Building_Toys_US</viewItemURL>
-			<paymentMethod>PayPal</paymentMethod>
-			<autoPay>false</autoPay>
-			<postalCode>29841</postalCode>
-			<location>North Augusta,SC,USA</location>
-			<country>US</country>
-			<shippingInfo>
-				<shippingServiceCost currencyId="USD">15.0</shippingServiceCost>
-				<shippingType>Flat</shippingType>
-				<shipToLocations>US</shipToLocations>
-				<expeditedShipping>false</expeditedShipping>
-				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>1</handlingTime>
-			</shippingInfo>
-			<sellingStatus>
-				<currentPrice currencyId="USD">34.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">34.99</convertedCurrentPrice>
-				<bidCount>0</bidCount>
-				<sellingState>Active</sellingState>
-				<timeLeft>P0DT2H49M56S</timeLeft>
-			</sellingStatus>
-			<listingInfo>
-				<bestOfferEnabled>false</bestOfferEnabled>
-				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-20T12:56:25.000Z</startTime>
-				<endTime>2013-01-23T12:56:25.000Z</endTime>
-				<listingType>Auction</listingType>
-				<gift>false</gift>
-			</listingInfo>
-			<returnsAccepted>false</returnsAccepted>
 			<condition>
 				<conditionId>1000</conditionId>
 				<conditionDisplayName>New</conditionDisplayName>
@@ -103,40 +52,83 @@
 			<topRatedListing>false</topRatedListing>
 		</item>
 		<item>
-			<itemId>360566648017</itemId>
-			<title>Large lot 13 Lord of the rings action figures LOTR  Moon Box TTT FOTR ROTK</title>
+			<itemId>310574414550</itemId>
+			<title>LOTR. THE RETURN OF THE KING. ARAGORN KING OF GONDOR. WITH ANDURIL SWORD</title>
 			<globalId>EBAY-US</globalId>
 			<primaryCategory>
 				<categoryId>75708</categoryId>
 				<categoryName>TV, Movie &amp; Video Games</categoryName>
 			</primaryCategory>
-			<galleryURL>http://thumbs2.ebaystatic.com/m/mZAckNNvqrRWwc1-NIZziMw/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Large-lot-13-Lord-rings-action-figures-LOTR-Moon-Box-TTT-FOTR-ROTK-/360566648017?pt=US_Action_Figures</viewItemURL>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m880P8N71IhDGZ1EOPY6d3Q/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/LOTR-RETURN-KING-ARAGORN-KING-GONDOR-ANDURIL-SWORD-/310574414550?pt=US_Action_Figures</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
-			<autoPay>false</autoPay>
-			<postalCode>99019</postalCode>
-			<location>Liberty Lake,WA,USA</location>
+			<autoPay>true</autoPay>
+			<postalCode>34601</postalCode>
+			<location>Brooksville,FL,USA</location>
 			<country>US</country>
 			<shippingInfo>
-				<shippingServiceCost currencyId="USD">15.0</shippingServiceCost>
-				<shippingType>Flat</shippingType>
-				<shipToLocations>US</shipToLocations>
-				<expeditedShipping>false</expeditedShipping>
+				<shippingType>Calculated</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
 				<handlingTime>1</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">39.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">39.99</convertedCurrentPrice>
-				<bidCount>1</bidCount>
+				<currentPrice currencyId="USD">6.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">6.99</convertedCurrentPrice>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT16H38M38S</timeLeft>
+				<timeLeft>P28DT20H42M48S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-17T02:45:07.000Z</startTime>
-				<endTime>2013-01-24T02:45:07.000Z</endTime>
+				<startTime>2013-01-22T16:00:55.000Z</startTime>
+				<endTime>2013-02-21T16:05:55.000Z</endTime>
+				<listingType>StoreInventory</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>160957468978</itemId>
+			<title>3 New Lord Of The Rings Figures-Eye Of Sauron-Galadriel-Helm's Deep Legolas</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>75708</categoryId>
+				<categoryName>TV, Movie &amp; Video Games</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mcAUnD_wEWZwR9bL3Sg6YKg/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/3-New-Lord-Rings-Figures-Eye-Sauron-Galadriel-Helms-Deep-Legolas-/160957468978?pt=US_Action_Figures</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>33322</postalCode>
+			<location>Fort Lauderdale,FL,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingType>Calculated</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">19.95</currentPrice>
+				<convertedCurrentPrice currencyId="USD">19.95</convertedCurrentPrice>
+				<bidCount>0</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT0H12M25S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-16T19:35:32.000Z</startTime>
+				<endTime>2013-01-23T19:35:32.000Z</endTime>
 				<listingType>Auction</listingType>
 				<gift>false</gift>
 			</listingInfo>
@@ -149,108 +141,103 @@
 			<topRatedListing>false</topRatedListing>
 		</item>
 		<item>
-			<itemId>180902627821</itemId>
-			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
+			<itemId>160957467660</itemId>
+			<title>LOTR ROTK TT Lord of the Rings Shelob Figure HUGE Spider Samwise Battle HOBBIT</title>
 			<globalId>EBAY-US</globalId>
 			<primaryCategory>
-				<categoryId>67681</categoryId>
-				<categoryName>Rings</categoryName>
+				<categoryId>75708</categoryId>
+				<categoryName>TV, Movie &amp; Video Games</categoryName>
 			</primaryCategory>
-			<secondaryCategory>
-				<categoryId>10297</categoryId>
-				<categoryName>Other</categoryName>
-			</secondaryCategory>
-			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947224</viewItemURL>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mUaBz6yYDzF-gLiivao5vfg/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/LOTR-ROTK-TT-Lord-Rings-Shelob-Figure-HUGE-Spider-Samwise-Battle-HOBBIT-/160957467660?pt=US_Action_Figures</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<location>Hong Kong</location>
-			<country>HK</country>
+			<postalCode>92307</postalCode>
+			<location>Apple Valley,CA,USA</location>
+			<country>US</country>
 			<shippingInfo>
-				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-				<shippingType>Free</shippingType>
+				<shippingServiceCost currencyId="USD">2.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
 				<shipToLocations>US</shipToLocations>
-				<shipToLocations>CA</shipToLocations>
-				<shipToLocations>AU</shipToLocations>
-				<shipToLocations>JP</shipToLocations>
-				<shipToLocations>Europe</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>2</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">16.38</currentPrice>
+				<convertedCurrentPrice currencyId="USD">16.38</convertedCurrentPrice>
+				<bidCount>12</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT0H10M1S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-16T19:33:08.000Z</startTime>
+				<endTime>2013-01-23T19:33:08.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>3000</conditionId>
+				<conditionDisplayName>Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>121053116072</itemId>
+			<title>THE LORD OF THE RINGS ACTION FIGURE (TREE BEARD)</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>75708</categoryId>
+				<categoryName>TV, Movie &amp; Video Games</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mohn08dsRpwwcXvNo5mTkyQ/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/LORD-RINGS-ACTION-FIGURE-TREE-BEARD-/121053116072?pt=US_Action_Figures</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>01089</postalCode>
+			<location>West Springfield,MA,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">6.95</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>US</shipToLocations>
 				<expeditedShipping>false</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
 				<handlingTime>1</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">5.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
+				<currentPrice currencyId="USD">19.95</currentPrice>
+				<convertedCurrentPrice currencyId="USD">19.95</convertedCurrentPrice>
+				<bidCount>0</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P11DT21H29M24S</timeLeft>
+				<timeLeft>P0DT0H38M23S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2012-06-09T07:30:53.000Z</startTime>
-				<endTime>2013-02-04T07:35:53.000Z</endTime>
-				<listingType>FixedPrice</listingType>
+				<startTime>2013-01-16T20:01:30.000Z</startTime>
+				<endTime>2013-01-23T20:01:30.000Z</endTime>
+				<listingType>Auction</listingType>
 				<gift>false</gift>
 			</listingInfo>
 			<returnsAccepted>true</returnsAccepted>
 			<condition>
-				<conditionId>1500</conditionId>
-				<conditionDisplayName>New without tags</conditionDisplayName>
-			</condition>
-			<isMultiVariationListing>true</isMultiVariationListing>
-			<topRatedListing>true</topRatedListing>
-		</item>
-		<item>
-			<itemId>251214879931</itemId>
-			<title>Lord of the Rings Trilogy DVD Extended Edition Like New</title>
-			<globalId>EBAY-US</globalId>
-			<primaryCategory>
-				<categoryId>617</categoryId>
-				<categoryName>DVDs &amp; Blu-ray Discs</categoryName>
-			</primaryCategory>
-			<galleryURL>http://thumbs4.ebaystatic.com/m/m5jbqiyIqoYzdch39BiA-GQ/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Lord-Rings-Trilogy-DVD-Extended-Edition-Like-New-/251214879931?pt=US_DVD_HD_DVD_Blu_ray</viewItemURL>
-			<paymentMethod>PayPal</paymentMethod>
-			<autoPay>false</autoPay>
-			<postalCode>06110</postalCode>
-			<location>West Hartford,CT,USA</location>
-			<country>US</country>
-			<shippingInfo>
-				<shippingType>Calculated</shippingType>
-				<shipToLocations>US</shipToLocations>
-				<expeditedShipping>true</expeditedShipping>
-				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>2</handlingTime>
-			</shippingInfo>
-			<sellingStatus>
-				<currentPrice currencyId="USD">39.0</currentPrice>
-				<convertedCurrentPrice currencyId="USD">39.0</convertedCurrentPrice>
-				<bidCount>9</bidCount>
-				<sellingState>Active</sellingState>
-				<timeLeft>P0DT7H34M19S</timeLeft>
-			</sellingStatus>
-			<listingInfo>
-				<bestOfferEnabled>false</bestOfferEnabled>
-				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-16T17:40:48.000Z</startTime>
-				<endTime>2013-01-23T17:40:48.000Z</endTime>
-				<listingType>Auction</listingType>
-				<gift>false</gift>
-			</listingInfo>
-			<returnsAccepted>false</returnsAccepted>
-			<condition>
-				<conditionId>2750</conditionId>
-				<conditionDisplayName>Like New</conditionDisplayName>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
 			</condition>
 			<isMultiVariationListing>false</isMultiVariationListing>
 			<topRatedListing>false</topRatedListing>
 		</item>
 	</searchResult>
 	<paginationOutput>
-		<totalPages>12976</totalPages>
-		<totalEntries>64877</totalEntries>
+		<totalPages>12840</totalPages>
+		<totalEntries>64197</totalEntries>
 		<pageNumber>1</pageNumber>
 		<entriesPerPage>5</entriesPerPage>
 	</paginationOutput>
-	<itemSearchURL>http://www.ebay.com/sch/i.html?_nkw=lord+of+the+rings&amp;_ddo=1&amp;_ipg=5&amp;_pgn=1</itemSearchURL>
+	<itemSearchURL>http://www.ebay.com/sch/i.html?_nkw=lotr&amp;_ddo=1&amp;_ipg=5&amp;_pgn=1</itemSearchURL>
 </findItemsByKeywordsResponse>
