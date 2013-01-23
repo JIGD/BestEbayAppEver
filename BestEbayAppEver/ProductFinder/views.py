@@ -2,14 +2,16 @@ from django.shortcuts import render, render_to_response
 from django.views.decorators.csrf import csrf_exempt
 import SearchForm
 import DoRequest
+import XmlParser
 
 
 @csrf_exempt
 def search(request):
     if request.method == 'POST':  # If the form has been submitted...
         product = str(request.POST['product'])  # look for variable product in POST
-        DoRequest.findByKeyword(product)
-        return render_to_response('searchResults.html', {'output': product}) 
+        results = DoRequest.findByKeyword(product)  # get the results for the search
+        items = XmlParser.processMessage(results)
+        return render_to_response('searchResults.html', {'items': items, 'searchTerm': product})
     else:
         return render(request, 'home.html')
 

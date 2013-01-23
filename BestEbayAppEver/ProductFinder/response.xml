@@ -2,26 +2,29 @@
 <findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
 	<ack>Success</ack>
 	<version>1.12.0</version>
-	<timestamp>2013-01-23T07:10:10.408Z</timestamp>
-	<searchResult count="2">
+	<timestamp>2013-01-23T09:31:37.885Z</timestamp>
+	<searchResult count="5">
 		<item>
-			<itemId>140908825240</itemId>
-			<title>Harry Potter Coin Collection- GRINGOTTS SAVINGS BOOK- 24 COINS (2nd set)</title>
+			<itemId>180902627821</itemId>
+			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
 			<globalId>EBAY-US</globalId>
 			<primaryCategory>
-				<categoryId>29798</categoryId>
-				<categoryName>Harry Potter</categoryName>
+				<categoryId>67681</categoryId>
+				<categoryName>Rings</categoryName>
 			</primaryCategory>
-			<galleryURL>http://thumbs1.ebaystatic.com/m/mQ5QfzDvE2SVy9_4JBY1gtg/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Harry-Potter-Coin-Collection-GRINGOTTS-SAVINGS-BOOK-24-COINS-2nd-set-/140908825240?pt=LH_DefaultDomain_0</viewItemURL>
+			<secondaryCategory>
+				<categoryId>10297</categoryId>
+				<categoryName>Other</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947225</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<postalCode>33040</postalCode>
-			<location>Key West,FL,USA</location>
-			<country>US</country>
+			<location>Hong Kong</location>
+			<country>HK</country>
 			<shippingInfo>
-				<shippingServiceCost currencyId="USD">3.99</shippingServiceCost>
-				<shippingType>Flat</shippingType>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
 				<shipToLocations>US</shipToLocations>
 				<shipToLocations>CA</shipToLocations>
 				<shipToLocations>AU</shipToLocations>
@@ -32,22 +35,111 @@
 				<handlingTime>1</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">42.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">42.99</convertedCurrentPrice>
-				<bidCount>2</bidCount>
+				<currentPrice currencyId="USD">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT8H48M3S</timeLeft>
+				<timeLeft>P11DT22H4M16S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-22T15:58:13.000Z</startTime>
-				<endTime>2013-01-23T15:58:13.000Z</endTime>
+				<startTime>2012-06-09T07:30:53.000Z</startTime>
+				<endTime>2013-02-04T07:35:53.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New without tags</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>130838110102</itemId>
+			<title>COOL LOTR Tungsten Carbide Band Rings Silver Color Size 7</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>67681</categoryId>
+				<categoryName>Rings</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mZOMW-hoS0cojixNk15op_Q/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/COOL-LOTR-Tungsten-Carbide-Band-Rings-Silver-Color-Size-7-/130838110102?pt=Gemstone_Rings</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>China</location>
+			<country>CN</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">5.99</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">9.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">9.99</convertedCurrentPrice>
+				<bidCount>0</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT0H28M54S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-20T10:00:31.000Z</startTime>
+				<endTime>2013-01-23T10:00:31.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New without tags</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>360566648017</itemId>
+			<title>Large lot 13 Lord of the rings action figures LOTR  Moon Box TTT FOTR ROTK</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>75708</categoryId>
+				<categoryName>TV, Movie &amp; Video Games</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mZAckNNvqrRWwc1-NIZziMw/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Large-lot-13-Lord-rings-action-figures-LOTR-Moon-Box-TTT-FOTR-ROTK-/360566648017?pt=US_Action_Figures</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>99019</postalCode>
+			<location>Liberty Lake,WA,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">15.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">39.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">39.99</convertedCurrentPrice>
+				<bidCount>1</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT17H13M30S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-17T02:45:07.000Z</startTime>
+				<endTime>2013-01-24T02:45:07.000Z</endTime>
 				<listingType>Auction</listingType>
 				<gift>false</gift>
 			</listingInfo>
 			<returnsAccepted>false</returnsAccepted>
-			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/140908825240_1_0_1.jpg</galleryPlusPictureURL>
 			<condition>
 				<conditionId>1000</conditionId>
 				<conditionDisplayName>New</conditionDisplayName>
@@ -56,58 +148,108 @@
 			<topRatedListing>false</topRatedListing>
 		</item>
 		<item>
-			<itemId>121055291641</itemId>
-			<title>LOT 6 HARRY POTTER 3-5-6-7 HARDCOVER BOOKS 1st Edition</title>
+			<itemId>180902627821</itemId>
+			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
 			<globalId>EBAY-US</globalId>
 			<primaryCategory>
-				<categoryId>29798</categoryId>
-				<categoryName>Harry Potter</categoryName>
+				<categoryId>67681</categoryId>
+				<categoryName>Rings</categoryName>
 			</primaryCategory>
-			<galleryURL>http://thumbs2.ebaystatic.com/m/mPoKLMap57P78rahh3ttIkA/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/LOT-6-HARRY-POTTER-3-5-6-7-HARDCOVER-BOOKS-1st-Edition-/121055291641?pt=LH_DefaultDomain_0</viewItemURL>
+			<secondaryCategory>
+				<categoryId>10297</categoryId>
+				<categoryName>Other</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947224</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<postalCode>32257</postalCode>
-			<location>Jacksonville,FL,USA</location>
-			<country>US</country>
+			<location>Hong Kong</location>
+			<country>HK</country>
 			<shippingInfo>
-				<shippingServiceCost currencyId="USD">6.0</shippingServiceCost>
-				<shippingType>Flat</shippingType>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
 				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
 				<expeditedShipping>false</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>2</handlingTime>
+				<handlingTime>1</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">9.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">9.99</convertedCurrentPrice>
-				<bidCount>0</bidCount>
+				<currentPrice currencyId="USD">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT15H22M36S</timeLeft>
+				<timeLeft>P11DT22H4M16S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-20T22:32:46.000Z</startTime>
-				<endTime>2013-01-23T22:32:46.000Z</endTime>
-				<listingType>Auction</listingType>
+				<startTime>2012-06-09T07:30:53.000Z</startTime>
+				<endTime>2013-02-04T07:35:53.000Z</endTime>
+				<listingType>FixedPrice</listingType>
 				<gift>false</gift>
 			</listingInfo>
 			<returnsAccepted>true</returnsAccepted>
-			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/121055291641_1_0_1.jpg</galleryPlusPictureURL>
 			<condition>
-				<conditionId>3000</conditionId>
-				<conditionDisplayName>Used</conditionDisplayName>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New without tags</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>251214879931</itemId>
+			<title>Lord of the Rings Trilogy DVD Extended Edition Like New</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>617</categoryId>
+				<categoryName>DVDs &amp; Blu-ray Discs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/m5jbqiyIqoYzdch39BiA-GQ/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Rings-Trilogy-DVD-Extended-Edition-Like-New-/251214879931?pt=US_DVD_HD_DVD_Blu_ray</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>06110</postalCode>
+			<location>West Hartford,CT,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingType>Calculated</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>2</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">26.0</currentPrice>
+				<convertedCurrentPrice currencyId="USD">26.0</convertedCurrentPrice>
+				<bidCount>7</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT8H9M11S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-16T17:40:48.000Z</startTime>
+				<endTime>2013-01-23T17:40:48.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>false</returnsAccepted>
+			<condition>
+				<conditionId>2750</conditionId>
+				<conditionDisplayName>Like New</conditionDisplayName>
 			</condition>
 			<isMultiVariationListing>false</isMultiVariationListing>
 			<topRatedListing>false</topRatedListing>
 		</item>
 	</searchResult>
 	<paginationOutput>
-		<totalPages>30664</totalPages>
-		<totalEntries>61328</totalEntries>
+		<totalPages>12977</totalPages>
+		<totalEntries>64884</totalEntries>
 		<pageNumber>1</pageNumber>
-		<entriesPerPage>2</entriesPerPage>
+		<entriesPerPage>5</entriesPerPage>
 	</paginationOutput>
-	<itemSearchURL>http://www.ebay.com/sch/i.html?_nkw=Harry+potter&amp;_ddo=1&amp;_ipg=2&amp;_pgn=1</itemSearchURL>
+	<itemSearchURL>http://www.ebay.com/sch/i.html?_nkw=lord+of+the+rings&amp;_ddo=1&amp;_ipg=5&amp;_pgn=1</itemSearchURL>
 </findItemsByKeywordsResponse>

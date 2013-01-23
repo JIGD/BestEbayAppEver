@@ -26,7 +26,7 @@ def buildRequestXml(keyword):
               "xmlns=\"http://www.ebay.com/marketplace/search/v1/services\">" +\
               "<keywords>" + keyword + "</keywords>" + \
               "<paginationInput>" + \
-              "<entriesPerPage>2</entriesPerPage>" + \
+              "<entriesPerPage>5</entriesPerPage>" + \
               "</paginationInput>" + \
               "</findItemsByKeywordsRequest>"
     return requestXml

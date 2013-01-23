@@ -1,10 +1,19 @@
 <html>
 
-<head><title>{{output}}</title></head>
+<head><title>{{searchTerm}}</title></head>
 
 <body>
 
-Your output is: {{output}}.
+<p>Your searched for: {{output}}.<p>
+
+{% for item in items%}
+
+{{ item.title }}</br>
+{{ item.galleryURL }}</br>
+{{ item.paymentMethod }}</br>
+{{ item.sellingStatus }}</br>
+
+{% endfor %}
 
 </body>
 
