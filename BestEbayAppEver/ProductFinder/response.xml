@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
+	<ack>Success</ack>
+	<version>1.12.0</version>
+	<timestamp>2013-01-23T07:10:10.408Z</timestamp>
+	<searchResult count="2">
+		<item>
+			<itemId>140908825240</itemId>
+			<title>Harry Potter Coin Collection- GRINGOTTS SAVINGS BOOK- 24 COINS (2nd set)</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>29798</categoryId>
+				<categoryName>Harry Potter</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mQ5QfzDvE2SVy9_4JBY1gtg/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Harry-Potter-Coin-Collection-GRINGOTTS-SAVINGS-BOOK-24-COINS-2nd-set-/140908825240?pt=LH_DefaultDomain_0</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>33040</postalCode>
+			<location>Key West,FL,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">3.99</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">42.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">42.99</convertedCurrentPrice>
+				<bidCount>2</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT8H48M3S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-22T15:58:13.000Z</startTime>
+				<endTime>2013-01-23T15:58:13.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>false</returnsAccepted>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/140908825240_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>121055291641</itemId>
+			<title>LOT 6 HARRY POTTER 3-5-6-7 HARDCOVER BOOKS 1st Edition</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>29798</categoryId>
+				<categoryName>Harry Potter</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mPoKLMap57P78rahh3ttIkA/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/LOT-6-HARRY-POTTER-3-5-6-7-HARDCOVER-BOOKS-1st-Edition-/121055291641?pt=LH_DefaultDomain_0</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>32257</postalCode>
+			<location>Jacksonville,FL,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">6.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>2</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">9.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">9.99</convertedCurrentPrice>
+				<bidCount>0</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT15H22M36S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-20T22:32:46.000Z</startTime>
+				<endTime>2013-01-23T22:32:46.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/121055291641_1_0_1.jpg</galleryPlusPictureURL>
+			<condition>
+				<conditionId>3000</conditionId>
+				<conditionDisplayName>Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+	</searchResult>
+	<paginationOutput>
+		<totalPages>30664</totalPages>
+		<totalEntries>61328</totalEntries>
+		<pageNumber>1</pageNumber>
+		<entriesPerPage>2</entriesPerPage>
+	</paginationOutput>
+	<itemSearchURL>http://www.ebay.com/sch/i.html?_nkw=Harry+potter&amp;_ddo=1&amp;_ipg=2&amp;_pgn=1</itemSearchURL>
+</findItemsByKeywordsResponse>

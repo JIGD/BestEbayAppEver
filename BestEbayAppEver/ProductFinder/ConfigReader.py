@@ -8,7 +8,7 @@ def readConfigs():
     return configs
 
 
-def getConfigValue(config):
+def getConfig(config):
     configs = json.loads(readConfigs())
     server_config = configs[config]
     return server_config
