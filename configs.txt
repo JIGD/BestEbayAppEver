@@ -1,1 +1,1 @@
-{"Certificate": "VALUE", "Application": "Nearsoft-9a90-4da0-93b7-9ecfa7dc26da", "DefaultURL": "http://svcs.ebay.com/services/search/FindingService/v1", "URL": "http://svcs.ebay.com/services/search/FindingService/v1", "Directory": "VALUE", "Developer": "VALUE"}
+{"Certificate": "VALUE", "DefaultURL": "http://svcs.ebay.com/services/search/FindingService/v1", "URL": "http://svcs.ebay.com/services/search/FindingService/v1", "Application": "Nearsoft-9a90-4da0-93b7-9ecfa7dc26da", "Directory": "VALUE", "Developer": "VALUE"}

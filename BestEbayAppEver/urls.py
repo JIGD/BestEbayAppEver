@@ -11,6 +11,7 @@ urlpatterns = patterns('',
      url(r'^searchResults', 'BestEbayAppEver.ProductFinder.views.searchResults', name='searchResults'),
      url(r'^search', 'BestEbayAppEver.ProductFinder.views.search', name='search'),
      url(r'^configs', 'BestEbayAppEver.ProductFinder.views.configs', name='configs'),
+     url(r'^modifyConfigs', 'BestEbayAppEver.ProductFinder.views.modifyConfigs', name='modifyConfigs'),
     # url(r'^BestEbayAppEver/', include('BestEbayAppEver.foo.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:

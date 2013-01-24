@@ -1,5 +1,6 @@
-from django.shortcuts import render, render_to_response
+from django.shortcuts import redirect, render_to_response
 from django.views.decorators.csrf import csrf_exempt
+from django.http import HttpResponseRedirect
 import SearchForm
 import DoRequest
 import XmlParser
@@ -16,19 +17,23 @@ def search(request):
     else:
         return render_to_response('home.html')
 
+
 def home(request):
     form = SearchForm
     return render_to_response('home.html', {
         'form': form,
     })
 
+
 def configs(request):
     url = ConfigReader.getConfig('URL')
     default_url = ConfigReader.getConfig('DefaultURL')
     return render_to_response('configs.html', {'url': url, 'default_url': default_url})
 
+
+@csrf_exempt
 def modifyConfigs(request):
     if request.method == 'POST':
         new_url = str(request.POST['url'])
         ConfigReader.setConfig('URL', new_url)
-    return render('home.html')
+    return HttpResponseRedirect("/")
