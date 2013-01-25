@@ -2,238 +2,185 @@
 <findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
 	<ack>Success</ack>
 	<version>1.12.0</version>
-	<timestamp>2013-01-24T16:55:53.848Z</timestamp>
+	<timestamp>2013-01-25T03:36:47.420Z</timestamp>
 	<searchResult count="5">
 		<item>
-			<itemId>180902627821</itemId>
-			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
+			<itemId>261158062158</itemId>
+			<title>Vintage Lot Electronic Games Digital Derby Blip Simon Quiz Wiz Missile Invader</title>
 			<globalId>EBAY-US</globalId>
 			<primaryCategory>
-				<categoryId>67681</categoryId>
-				<categoryName>Rings</categoryName>
+				<categoryId>155342</categoryId>
+				<categoryName>Vintage (Pre-1990)</categoryName>
 			</primaryCategory>
-			<secondaryCategory>
-				<categoryId>10297</categoryId>
-				<categoryName>Other</categoryName>
-			</secondaryCategory>
-			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947226</viewItemURL>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m_H1tnIeNJyqHHtzd6S_fnA/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Vintage-Lot-Electronic-Games-Digital-Derby-Blip-Simon-Quiz-Wiz-Missile-Invader-/261158062158?pt=Games_US</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<location>Hong Kong</location>
-			<country>HK</country>
-			<shippingInfo>
-				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-				<shippingType>Free</shippingType>
-				<shipToLocations>US</shipToLocations>
-				<shipToLocations>CA</shipToLocations>
-				<shipToLocations>AU</shipToLocations>
-				<shipToLocations>JP</shipToLocations>
-				<shipToLocations>Europe</shipToLocations>
-				<expeditedShipping>false</expeditedShipping>
-				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>1</handlingTime>
-			</shippingInfo>
-			<sellingStatus>
-				<currentPrice currencyId="USD">5.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
-				<sellingState>Active</sellingState>
-				<timeLeft>P10DT14H40M0S</timeLeft>
-			</sellingStatus>
-			<listingInfo>
-				<bestOfferEnabled>false</bestOfferEnabled>
-				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2012-06-09T07:30:53.000Z</startTime>
-				<endTime>2013-02-04T07:35:53.000Z</endTime>
-				<listingType>FixedPrice</listingType>
-				<gift>false</gift>
-			</listingInfo>
-			<returnsAccepted>true</returnsAccepted>
-			<condition>
-				<conditionId>1500</conditionId>
-				<conditionDisplayName>New without tags</conditionDisplayName>
-			</condition>
-			<isMultiVariationListing>true</isMultiVariationListing>
-			<topRatedListing>true</topRatedListing>
-		</item>
-		<item>
-			<itemId>140907106106</itemId>
-			<title>Lord of the Rings The two Towers action figur</title>
-			<globalId>EBAY-US</globalId>
-			<primaryCategory>
-				<categoryId>75708</categoryId>
-				<categoryName>TV, Movie &amp; Video Games</categoryName>
-			</primaryCategory>
-			<galleryURL>http://thumbs3.ebaystatic.com/m/m5klH-jOsVxFYiuCrROmziA/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Lord-Rings-two-Towers-action-figur-/140907106106?pt=US_Action_Figures</viewItemURL>
-			<paymentMethod>PayPal</paymentMethod>
-			<autoPay>false</autoPay>
-			<postalCode>33830</postalCode>
-			<location>Bartow,FL,USA</location>
+			<postalCode>43925</postalCode>
+			<location>East Springfield,OH,USA</location>
 			<country>US</country>
 			<shippingInfo>
 				<shippingType>Calculated</shippingType>
 				<shipToLocations>US</shipToLocations>
 				<expeditedShipping>false</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>2</handlingTime>
+				<handlingTime>1</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">17.5</currentPrice>
-				<convertedCurrentPrice currencyId="USD">17.5</convertedCurrentPrice>
-				<bidCount>3</bidCount>
+				<currentPrice currencyId="USD">25.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">25.99</convertedCurrentPrice>
+				<bidCount>0</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT0H39M53S</timeLeft>
+				<timeLeft>P0DT0H6M26S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>true</buyItNowAvailable>
+				<buyItNowPrice currencyId="USD">100.0</buyItNowPrice>
+				<convertedBuyItNowPrice currencyId="USD">100.0</convertedBuyItNowPrice>
+				<startTime>2013-01-20T03:43:13.000Z</startTime>
+				<endTime>2013-01-25T03:43:13.000Z</endTime>
+				<listingType>AuctionWithBIN</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>3000</conditionId>
+				<conditionDisplayName>Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>221181305414</itemId>
+			<title>Vintage SIMON SAYS Electronic Game MB Game 1978 In Box</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>158733</categoryId>
+				<categoryName>Bop It &amp; Simon</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mScJUrGmtZCt1m_CJ-q28tA/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Vintage-SIMON-SAYS-Electronic-Game-MB-Game-1978-Box-/221181305414?pt=Games_US</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>85364</postalCode>
+			<location>Yuma,AZ,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingType>Calculated</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>GB</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>DE</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">75.0</currentPrice>
+				<convertedCurrentPrice currencyId="USD">75.0</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P28DT21H48M33S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-17T17:35:46.000Z</startTime>
-				<endTime>2013-01-24T17:35:46.000Z</endTime>
+				<startTime>2013-01-24T01:25:20.000Z</startTime>
+				<endTime>2013-02-23T01:25:20.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>3000</conditionId>
+				<conditionDisplayName>Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>121055373629</itemId>
+			<title>Vintage Simon game mIlton Bradley 1978 with Box </title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>158733</categoryId>
+				<categoryName>Bop It &amp; Simon</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/mXmazN8ovLLLyeDqo4HHAGA/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Vintage-Simon-game-mIlton-Bradley-1978-Box-/121055373629?pt=Games_US</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>44287</postalCode>
+			<location>West Salem,OH,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingType>Calculated</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">8.88</currentPrice>
+				<convertedCurrentPrice currencyId="USD">8.88</convertedCurrentPrice>
+				<bidCount>2</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P2DT22H33M2S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-21T02:09:49.000Z</startTime>
+				<endTime>2013-01-28T02:09:49.000Z</endTime>
 				<listingType>Auction</listingType>
 				<gift>false</gift>
 			</listingInfo>
 			<returnsAccepted>true</returnsAccepted>
 			<condition>
-				<conditionId>1000</conditionId>
-				<conditionDisplayName>New</conditionDisplayName>
+				<conditionId>3000</conditionId>
+				<conditionDisplayName>Used</conditionDisplayName>
 			</condition>
 			<isMultiVariationListing>false</isMultiVariationListing>
 			<topRatedListing>false</topRatedListing>
 		</item>
 		<item>
-			<itemId>221178669706</itemId>
-			<title>Lord of the Rings LOTR Smeagol Stoor Fisherman MIB Return of the King ROTK</title>
-			<globalId>EBAY-US</globalId>
-			<primaryCategory>
-				<categoryId>75708</categoryId>
-				<categoryName>TV, Movie &amp; Video Games</categoryName>
-			</primaryCategory>
-			<galleryURL>http://thumbs3.ebaystatic.com/m/mX-tW1aiFaw2gG5agSumFuA/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Lord-Rings-LOTR-Smeagol-Stoor-Fisherman-MIB-Return-King-ROTK-/221178669706?pt=US_Action_Figures</viewItemURL>
-			<paymentMethod>CashOnPickup</paymentMethod>
-			<paymentMethod>PayPal</paymentMethod>
-			<autoPay>false</autoPay>
-			<postalCode>48038</postalCode>
-			<location>Clinton Township,MI,USA</location>
-			<country>US</country>
-			<shippingInfo>
-				<shippingType>Calculated</shippingType>
-				<shipToLocations>Worldwide</shipToLocations>
-				<expeditedShipping>true</expeditedShipping>
-				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>1</handlingTime>
-			</shippingInfo>
-			<sellingStatus>
-				<currentPrice currencyId="USD">8.0</currentPrice>
-				<convertedCurrentPrice currencyId="USD">8.0</convertedCurrentPrice>
-				<bidCount>2</bidCount>
-				<sellingState>Active</sellingState>
-				<timeLeft>P0DT0H3M59S</timeLeft>
-			</sellingStatus>
-			<listingInfo>
-				<bestOfferEnabled>false</bestOfferEnabled>
-				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-17T16:59:52.000Z</startTime>
-				<endTime>2013-01-24T16:59:52.000Z</endTime>
-				<listingType>Auction</listingType>
-				<gift>false</gift>
-			</listingInfo>
-			<returnsAccepted>true</returnsAccepted>
-			<condition>
-				<conditionId>1000</conditionId>
-				<conditionDisplayName>New</conditionDisplayName>
-			</condition>
-			<isMultiVariationListing>false</isMultiVariationListing>
-			<topRatedListing>true</topRatedListing>
-		</item>
-		<item>
-			<itemId>180902627821</itemId>
-			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
-			<globalId>EBAY-US</globalId>
-			<primaryCategory>
-				<categoryId>67681</categoryId>
-				<categoryName>Rings</categoryName>
-			</primaryCategory>
-			<secondaryCategory>
-				<categoryId>10297</categoryId>
-				<categoryName>Other</categoryName>
-			</secondaryCategory>
-			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947225</viewItemURL>
-			<paymentMethod>PayPal</paymentMethod>
-			<autoPay>false</autoPay>
-			<location>Hong Kong</location>
-			<country>HK</country>
-			<shippingInfo>
-				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
-				<shippingType>Free</shippingType>
-				<shipToLocations>US</shipToLocations>
-				<shipToLocations>CA</shipToLocations>
-				<shipToLocations>AU</shipToLocations>
-				<shipToLocations>JP</shipToLocations>
-				<shipToLocations>Europe</shipToLocations>
-				<expeditedShipping>false</expeditedShipping>
-				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>1</handlingTime>
-			</shippingInfo>
-			<sellingStatus>
-				<currentPrice currencyId="USD">5.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
-				<sellingState>Active</sellingState>
-				<timeLeft>P10DT14H40M0S</timeLeft>
-			</sellingStatus>
-			<listingInfo>
-				<bestOfferEnabled>false</bestOfferEnabled>
-				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2012-06-09T07:30:53.000Z</startTime>
-				<endTime>2013-02-04T07:35:53.000Z</endTime>
-				<listingType>FixedPrice</listingType>
-				<gift>false</gift>
-			</listingInfo>
-			<returnsAccepted>true</returnsAccepted>
-			<condition>
-				<conditionId>1500</conditionId>
-				<conditionDisplayName>New without tags</conditionDisplayName>
-			</condition>
-			<isMultiVariationListing>true</isMultiVariationListing>
-			<topRatedListing>true</topRatedListing>
-		</item>
-		<item>
-			<itemId>121055670064</itemId>
-			<title>NEW Lord of the Rings Motion Picture Trilogy Extended Edition Blu-Ray 15-Disc</title>
-			<globalId>EBAY-US</globalId>
+			<itemId>251214236614</itemId>
+			<title>Simon &amp; Simon - Season 1 (DVD, 2006, 4-Disc Set)</title>
+			<globalId>EBAY-ENCA</globalId>
 			<primaryCategory>
 				<categoryId>617</categoryId>
 				<categoryName>DVDs &amp; Blu-ray Discs</categoryName>
 			</primaryCategory>
-			<galleryURL>http://thumbs1.ebaystatic.com/m/mYcxchVASy_hcg-IuoyCE0w/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/NEW-Lord-Rings-Motion-Picture-Trilogy-Extended-Edition-Blu-Ray-15-Disc-/121055670064?pt=US_DVD_HD_DVD_Blu_ray</viewItemURL>
-			<productId type="ReferenceID">114575115</productId>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m8pRKSjS0tb9_oPtuNc967g/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Simon-Simon-Season-1-DVD-2006-4-Disc-Set-/251214236614?pt=US_DVD_HD_DVD_Blu_ray</viewItemURL>
+			<productId type="ReferenceID">54744119</productId>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<postalCode>78215</postalCode>
-			<location>San Antonio,TX,USA</location>
-			<country>US</country>
+			<location>Canada</location>
+			<country>CA</country>
 			<shippingInfo>
-				<shippingType>Calculated</shippingType>
+				<shippingServiceCost currencyId="USD">11.95</shippingServiceCost>
+				<shippingType>Flat</shippingType>
 				<shipToLocations>US</shipToLocations>
-				<expeditedShipping>true</expeditedShipping>
+				<shipToLocations>CA</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>2</handlingTime>
+				<handlingTime>3</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">45.0</currentPrice>
-				<convertedCurrentPrice currencyId="USD">45.0</convertedCurrentPrice>
-				<bidCount>15</bidCount>
+				<currentPrice currencyId="USD">7.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">7.99</convertedCurrentPrice>
+				<bidCount>2</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT0H44M17S</timeLeft>
+				<timeLeft>P0DT0H4M9S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-21T17:40:10.000Z</startTime>
-				<endTime>2013-01-24T17:40:10.000Z</endTime>
+				<startTime>2013-01-15T03:40:56.000Z</startTime>
+				<endTime>2013-01-25T03:40:56.000Z</endTime>
 				<listingType>Auction</listingType>
 				<gift>false</gift>
 			</listingInfo>
@@ -245,12 +192,57 @@
 			<isMultiVariationListing>false</isMultiVariationListing>
 			<topRatedListing>false</topRatedListing>
 		</item>
+		<item>
+			<itemId>121053729970</itemId>
+			<title>GE Security NX-650N 60-362N-10-319.9 Wireless Transmitter UTC Simon XTi XT Cncrd</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>67015</categoryId>
+				<categoryName>Systems</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/m-giB-Y7YyVQwvBU8fpLvlA/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/GE-Security-NX-650N-60-362N-10-319-9-Wireless-Transmitter-UTC-Simon-XTi-XT-Cncrd-/121053729970?pt=BI_Security_Fire_Protection</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>89121</postalCode>
+			<location>Las Vegas,NV,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingType>Calculated</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>2</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">30.0</currentPrice>
+				<convertedCurrentPrice currencyId="USD">30.0</convertedCurrentPrice>
+				<bidCount>0</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT0H39M15S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-18T04:16:02.000Z</startTime>
+				<endTime>2013-01-25T04:16:02.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>false</returnsAccepted>
+			<condition>
+				<conditionId>3000</conditionId>
+				<conditionDisplayName>Used</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
 	</searchResult>
 	<paginationOutput>
-		<totalPages>12555</totalPages>
-		<totalEntries>62773</totalEntries>
+		<totalPages>17413</totalPages>
+		<totalEntries>87064</totalEntries>
 		<pageNumber>1</pageNumber>
 		<entriesPerPage>5</entriesPerPage>
 	</paginationOutput>
-	<itemSearchURL>http://www.ebay.com/sch/i.html?_nkw=lord+of+the+rings&amp;_ddo=1&amp;_ipg=5&amp;_pgn=1</itemSearchURL>
+	<itemSearchURL>http://www.ebay.com/sch/i.html?_nkw=simon&amp;_ddo=1&amp;_ipg=5&amp;_pgn=1</itemSearchURL>
 </findItemsByKeywordsResponse>

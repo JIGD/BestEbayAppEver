@@ -6,7 +6,7 @@ appID = ConfigReader.getConfig("Application")
 certID = ConfigReader.getConfig("Certificate")
 
 #get the server details from the config file
-serverURL = ConfigReader.getConfig("URL")
+
 serverDirectory = ConfigReader.getConfig("Directory")
 
 
@@ -33,4 +33,5 @@ def buildRequestXml(keyword):
 
 
 def getServerURL():
+    serverURL = ConfigReader.getConfig("URL")
     return serverURL
