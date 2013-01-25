@@ -2,138 +2,94 @@
 <findItemsByKeywordsResponse xmlns="http://www.ebay.com/marketplace/search/v1/services">
 	<ack>Success</ack>
 	<version>1.12.0</version>
-	<timestamp>2013-01-25T03:36:47.420Z</timestamp>
-	<searchResult count="5">
+	<timestamp>2013-01-25T17:51:47.921Z</timestamp>
+	<searchResult count="15">
 		<item>
-			<itemId>261158062158</itemId>
-			<title>Vintage Lot Electronic Games Digital Derby Blip Simon Quiz Wiz Missile Invader</title>
+			<itemId>180902627821</itemId>
+			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
 			<globalId>EBAY-US</globalId>
 			<primaryCategory>
-				<categoryId>155342</categoryId>
-				<categoryName>Vintage (Pre-1990)</categoryName>
+				<categoryId>67681</categoryId>
+				<categoryName>Rings</categoryName>
 			</primaryCategory>
-			<galleryURL>http://thumbs3.ebaystatic.com/m/m_H1tnIeNJyqHHtzd6S_fnA/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Vintage-Lot-Electronic-Games-Digital-Derby-Blip-Simon-Quiz-Wiz-Missile-Invader-/261158062158?pt=Games_US</viewItemURL>
+			<secondaryCategory>
+				<categoryId>10297</categoryId>
+				<categoryName>Other</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480171446779</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<postalCode>43925</postalCode>
-			<location>East Springfield,OH,USA</location>
-			<country>US</country>
+			<location>Hong Kong</location>
+			<country>HK</country>
 			<shippingInfo>
-				<shippingType>Calculated</shippingType>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
 				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
 				<expeditedShipping>false</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
 				<handlingTime>1</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">25.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">25.99</convertedCurrentPrice>
-				<bidCount>0</bidCount>
+				<currentPrice currencyId="USD">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT0H6M26S</timeLeft>
-			</sellingStatus>
-			<listingInfo>
-				<bestOfferEnabled>false</bestOfferEnabled>
-				<buyItNowAvailable>true</buyItNowAvailable>
-				<buyItNowPrice currencyId="USD">100.0</buyItNowPrice>
-				<convertedBuyItNowPrice currencyId="USD">100.0</convertedBuyItNowPrice>
-				<startTime>2013-01-20T03:43:13.000Z</startTime>
-				<endTime>2013-01-25T03:43:13.000Z</endTime>
-				<listingType>AuctionWithBIN</listingType>
-				<gift>false</gift>
-			</listingInfo>
-			<returnsAccepted>true</returnsAccepted>
-			<condition>
-				<conditionId>3000</conditionId>
-				<conditionDisplayName>Used</conditionDisplayName>
-			</condition>
-			<isMultiVariationListing>false</isMultiVariationListing>
-			<topRatedListing>true</topRatedListing>
-		</item>
-		<item>
-			<itemId>221181305414</itemId>
-			<title>Vintage SIMON SAYS Electronic Game MB Game 1978 In Box</title>
-			<globalId>EBAY-US</globalId>
-			<primaryCategory>
-				<categoryId>158733</categoryId>
-				<categoryName>Bop It &amp; Simon</categoryName>
-			</primaryCategory>
-			<galleryURL>http://thumbs3.ebaystatic.com/m/mScJUrGmtZCt1m_CJ-q28tA/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Vintage-SIMON-SAYS-Electronic-Game-MB-Game-1978-Box-/221181305414?pt=Games_US</viewItemURL>
-			<paymentMethod>PayPal</paymentMethod>
-			<autoPay>false</autoPay>
-			<postalCode>85364</postalCode>
-			<location>Yuma,AZ,USA</location>
-			<country>US</country>
-			<shippingInfo>
-				<shippingType>Calculated</shippingType>
-				<shipToLocations>US</shipToLocations>
-				<shipToLocations>CA</shipToLocations>
-				<shipToLocations>GB</shipToLocations>
-				<shipToLocations>AU</shipToLocations>
-				<shipToLocations>DE</shipToLocations>
-				<shipToLocations>JP</shipToLocations>
-				<expeditedShipping>true</expeditedShipping>
-				<oneDayShippingAvailable>false</oneDayShippingAvailable>
-				<handlingTime>1</handlingTime>
-			</shippingInfo>
-			<sellingStatus>
-				<currentPrice currencyId="USD">75.0</currentPrice>
-				<convertedCurrentPrice currencyId="USD">75.0</convertedCurrentPrice>
-				<sellingState>Active</sellingState>
-				<timeLeft>P28DT21H48M33S</timeLeft>
+				<timeLeft>P9DT13H44M6S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-24T01:25:20.000Z</startTime>
-				<endTime>2013-02-23T01:25:20.000Z</endTime>
+				<startTime>2012-06-09T07:30:53.000Z</startTime>
+				<endTime>2013-02-04T07:35:53.000Z</endTime>
 				<listingType>FixedPrice</listingType>
 				<gift>false</gift>
 			</listingInfo>
 			<returnsAccepted>true</returnsAccepted>
 			<condition>
-				<conditionId>3000</conditionId>
-				<conditionDisplayName>Used</conditionDisplayName>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New without tags</conditionDisplayName>
 			</condition>
-			<isMultiVariationListing>false</isMultiVariationListing>
+			<isMultiVariationListing>true</isMultiVariationListing>
 			<topRatedListing>true</topRatedListing>
 		</item>
 		<item>
-			<itemId>121055373629</itemId>
-			<title>Vintage Simon game mIlton Bradley 1978 with Box </title>
+			<itemId>221180847498</itemId>
+			<title>Lord of the rings action figures lot cave troll legolas king hobbit RARE</title>
 			<globalId>EBAY-US</globalId>
 			<primaryCategory>
-				<categoryId>158733</categoryId>
-				<categoryName>Bop It &amp; Simon</categoryName>
+				<categoryId>75708</categoryId>
+				<categoryName>TV, Movie &amp; Video Games</categoryName>
 			</primaryCategory>
-			<galleryURL>http://thumbs2.ebaystatic.com/m/mXmazN8ovLLLyeDqo4HHAGA/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Vintage-Simon-game-mIlton-Bradley-1978-Box-/121055373629?pt=Games_US</viewItemURL>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mJILWSCr0cP-MG8Gr_CvpVw/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-rings-action-figures-lot-cave-troll-legolas-king-hobbit-RARE-/221180847498?pt=US_Action_Figures</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<postalCode>44287</postalCode>
-			<location>West Salem,OH,USA</location>
+			<postalCode>85260</postalCode>
+			<location>Scottsdale,AZ,USA</location>
 			<country>US</country>
 			<shippingInfo>
-				<shippingType>Calculated</shippingType>
-				<shipToLocations>US</shipToLocations>
-				<expeditedShipping>false</expeditedShipping>
+				<shippingType>CalculatedDomesticFlatInternational</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
 				<handlingTime>1</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">8.88</currentPrice>
-				<convertedCurrentPrice currencyId="USD">8.88</convertedCurrentPrice>
-				<bidCount>2</bidCount>
+				<currentPrice currencyId="USD">59.02</currentPrice>
+				<convertedCurrentPrice currencyId="USD">59.02</convertedCurrentPrice>
+				<bidCount>15</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P2DT22H33M2S</timeLeft>
+				<timeLeft>P0DT0H31M52S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-21T02:09:49.000Z</startTime>
-				<endTime>2013-01-28T02:09:49.000Z</endTime>
+				<startTime>2013-01-22T18:23:39.000Z</startTime>
+				<endTime>2013-01-25T18:23:39.000Z</endTime>
 				<listingType>Auction</listingType>
 				<gift>false</gift>
 			</listingInfo>
@@ -146,103 +102,638 @@
 			<topRatedListing>false</topRatedListing>
 		</item>
 		<item>
-			<itemId>251214236614</itemId>
-			<title>Simon &amp; Simon - Season 1 (DVD, 2006, 4-Disc Set)</title>
-			<globalId>EBAY-ENCA</globalId>
+			<itemId>251215782041</itemId>
+			<title>Wildmen Of Druadan ,  lord of the rings miniatures box PRECINTED NEW</title>
+			<globalId>EBAY-US</globalId>
 			<primaryCategory>
-				<categoryId>617</categoryId>
-				<categoryName>DVDs &amp; Blu-ray Discs</categoryName>
+				<categoryId>44011</categoryId>
+				<categoryName>Lord of the Rings</categoryName>
 			</primaryCategory>
-			<galleryURL>http://thumbs3.ebaystatic.com/m/m8pRKSjS0tb9_oPtuNc967g/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/Simon-Simon-Season-1-DVD-2006-4-Disc-Set-/251214236614?pt=US_DVD_HD_DVD_Blu_ray</viewItemURL>
-			<productId type="ReferenceID">54744119</productId>
+			<galleryURL>http://thumbs2.ebaystatic.com/m/m-OGiK24zl7CKAFuWteMzUg/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Wildmen-Druadan-lord-rings-miniatures-box-PRECINTED-NEW-/251215782041?pt=Games_US</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<location>Canada</location>
-			<country>CA</country>
+			<postalCode>12001</postalCode>
+			<location>Spain</location>
+			<country>ES</country>
 			<shippingInfo>
-				<shippingServiceCost currencyId="USD">11.95</shippingServiceCost>
+				<shippingServiceCost currencyId="USD">14.95</shippingServiceCost>
 				<shippingType>Flat</shippingType>
-				<shipToLocations>US</shipToLocations>
-				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>Worldwide</shipToLocations>
 				<expeditedShipping>false</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
 				<handlingTime>3</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">7.99</currentPrice>
-				<convertedCurrentPrice currencyId="USD">7.99</convertedCurrentPrice>
-				<bidCount>2</bidCount>
+				<currentPrice currencyId="USD">29.0</currentPrice>
+				<convertedCurrentPrice currencyId="USD">29.0</convertedCurrentPrice>
+				<bidCount>0</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT0H4M9S</timeLeft>
+				<timeLeft>P0DT0H24M22S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-15T03:40:56.000Z</startTime>
-				<endTime>2013-01-25T03:40:56.000Z</endTime>
+				<startTime>2013-01-18T18:16:09.000Z</startTime>
+				<endTime>2013-01-25T18:16:09.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>180902627821</itemId>
+			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>67681</categoryId>
+				<categoryName>Rings</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>10297</categoryId>
+				<categoryName>Other</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480171446778</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Hong Kong</location>
+			<country>HK</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT13H44M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-06-09T07:30:53.000Z</startTime>
+				<endTime>2013-02-04T07:35:53.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New without tags</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>321060578299</itemId>
+			<title>Lord Of The Rings Conquest Playstation 3 Complete W/ Manual GREAT CONDITION</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>139973</categoryId>
+				<categoryName>Video Games</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mtA1srL0otmzGb1oCBEGL_Q/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Rings-Conquest-Playstation-3-Complete-W-Manual-GREAT-CONDITION-/321060578299?pt=Video_Games_Games</viewItemURL>
+			<productId type="ReferenceID">65580755</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>85260</postalCode>
+			<location>Scottsdale,AZ,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingType>Calculated</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">16.01</currentPrice>
+				<convertedCurrentPrice currencyId="USD">16.01</convertedCurrentPrice>
+				<bidCount>9</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT0H14M59S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-22T18:06:46.000Z</startTime>
+				<endTime>2013-01-25T18:06:46.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>2750</conditionId>
+				<conditionDisplayName>Like New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>180902627821</itemId>
+			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>67681</categoryId>
+				<categoryName>Rings</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>10297</categoryId>
+				<categoryName>Other</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947225</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Hong Kong</location>
+			<country>HK</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT13H44M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-06-09T07:30:53.000Z</startTime>
+				<endTime>2013-02-04T07:35:53.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New without tags</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>300848907002</itemId>
+			<title>The Lord of the Rings: The Fellowship of the Ring (VHS, 2002)</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>309</categoryId>
+				<categoryName>VHS Tapes</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs3.ebaystatic.com/m/mcpBPJsdbtORPMM41sqvxxw/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Rings-Fellowship-Ring-VHS-2002-/300848907002?pt=VHS</viewItemURL>
+			<productId type="ReferenceID">3419218</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>17365</postalCode>
+			<location>Wellsville,PA,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">3.0</shippingServiceCost>
+				<shippingType>FlatDomesticCalculatedInternational</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">1.0</currentPrice>
+				<convertedCurrentPrice currencyId="USD">1.0</convertedCurrentPrice>
+				<bidCount>0</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT0H4M48S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-18T17:56:35.000Z</startTime>
+				<endTime>2013-01-25T17:56:35.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>4000</conditionId>
+				<conditionDisplayName>Very Good</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>160958683175</itemId>
+			<title>COLLECTOR DOLL AS GALADRIEL FELLOWSHIP LORD OF THE RINGS LOTR MOVIE HOBBIT</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>15952</categoryId>
+				<categoryName>Designer Editions, Bob Mackie</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mLR-oE9CkW8ygYRKupat2BA/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/COLLECTOR-DOLL-GALADRIEL-FELLOWSHIP-LORD-RINGS-LOTR-MOVIE-HOBBIT-/160958683175?pt=US_Dolls_Bears_Toys</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>39437</postalCode>
+			<location>Ellisville,MS,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">4.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>2</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">35.0</currentPrice>
+				<convertedCurrentPrice currencyId="USD">35.0</convertedCurrentPrice>
+				<bidCount>5</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT1H2M21S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-18T18:54:08.000Z</startTime>
+				<endTime>2013-01-25T18:54:08.000Z</endTime>
 				<listingType>Auction</listingType>
 				<gift>false</gift>
 			</listingInfo>
 			<returnsAccepted>false</returnsAccepted>
 			<condition>
 				<conditionId>1000</conditionId>
-				<conditionDisplayName>Brand New</conditionDisplayName>
+				<conditionDisplayName>New</conditionDisplayName>
 			</condition>
 			<isMultiVariationListing>false</isMultiVariationListing>
 			<topRatedListing>false</topRatedListing>
 		</item>
 		<item>
-			<itemId>121053729970</itemId>
-			<title>GE Security NX-650N 60-362N-10-319.9 Wireless Transmitter UTC Simon XTi XT Cncrd</title>
+			<itemId>180902627821</itemId>
+			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
 			<globalId>EBAY-US</globalId>
 			<primaryCategory>
-				<categoryId>67015</categoryId>
-				<categoryName>Systems</categoryName>
+				<categoryId>67681</categoryId>
+				<categoryName>Rings</categoryName>
 			</primaryCategory>
-			<galleryURL>http://thumbs3.ebaystatic.com/m/m-giB-Y7YyVQwvBU8fpLvlA/140.jpg</galleryURL>
-			<viewItemURL>http://www.ebay.com/itm/GE-Security-NX-650N-60-362N-10-319-9-Wireless-Transmitter-UTC-Simon-XTi-XT-Cncrd-/121053729970?pt=BI_Security_Fire_Protection</viewItemURL>
+			<secondaryCategory>
+				<categoryId>10297</categoryId>
+				<categoryName>Other</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947223</viewItemURL>
 			<paymentMethod>PayPal</paymentMethod>
 			<autoPay>false</autoPay>
-			<postalCode>89121</postalCode>
-			<location>Las Vegas,NV,USA</location>
+			<location>Hong Kong</location>
+			<country>HK</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT13H44M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-06-09T07:30:53.000Z</startTime>
+				<endTime>2013-02-04T07:35:53.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New without tags</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>271140856072</itemId>
+			<title>LORD OF THE RINGS TRILOGY  ALL THREE MOVIES</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>617</categoryId>
+				<categoryName>DVDs &amp; Blu-ray Discs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mDrlPCu7Ozd3crMYK3QqrhA/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/LORD-RINGS-TRILOGY-ALL-THREE-MOVIES-/271140856072?pt=US_DVD_HD_DVD_Blu_ray</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>72703</postalCode>
+			<location>Fayetteville,AR,USA</location>
 			<country>US</country>
 			<shippingInfo>
-				<shippingType>Calculated</shippingType>
+				<shippingServiceCost currencyId="USD">3.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">5.0</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.0</convertedCurrentPrice>
+				<bidCount>1</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT0H0M58S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-18T17:52:45.000Z</startTime>
+				<endTime>2013-01-25T17:52:45.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>4000</conditionId>
+				<conditionDisplayName>Very Good</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>180902627821</itemId>
+			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>67681</categoryId>
+				<categoryName>Rings</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>10297</categoryId>
+				<categoryName>Other</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947224</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Hong Kong</location>
+			<country>HK</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT13H44M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-06-09T07:30:53.000Z</startTime>
+				<endTime>2013-02-04T07:35:53.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New without tags</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>181068621835</itemId>
+			<title>Mondo precious cargo lord of the rings art print by Paolo Rivera LOTR</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>360</categoryId>
+				<categoryName>Prints</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/mhNeukPBJGUGIOAVspUkk9w/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Mondo-precious-cargo-lord-rings-art-print-Paolo-Rivera-LOTR-/181068621835?pt=Art_Prints</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">12.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
 				<shipToLocations>US</shipToLocations>
 				<expeditedShipping>false</expeditedShipping>
 				<oneDayShippingAvailable>false</oneDayShippingAvailable>
 				<handlingTime>2</handlingTime>
 			</shippingInfo>
 			<sellingStatus>
-				<currentPrice currencyId="USD">30.0</currentPrice>
-				<convertedCurrentPrice currencyId="USD">30.0</convertedCurrentPrice>
-				<bidCount>0</bidCount>
+				<currentPrice currencyId="USD">75.0</currentPrice>
+				<convertedCurrentPrice currencyId="USD">75.0</convertedCurrentPrice>
+				<bidCount>6</bidCount>
 				<sellingState>Active</sellingState>
-				<timeLeft>P0DT0H39M15S</timeLeft>
+				<timeLeft>P0DT0H29M16S</timeLeft>
 			</sellingStatus>
 			<listingInfo>
 				<bestOfferEnabled>false</bestOfferEnabled>
 				<buyItNowAvailable>false</buyItNowAvailable>
-				<startTime>2013-01-18T04:16:02.000Z</startTime>
-				<endTime>2013-01-25T04:16:02.000Z</endTime>
+				<startTime>2013-01-24T18:21:03.000Z</startTime>
+				<endTime>2013-01-25T18:21:03.000Z</endTime>
 				<listingType>Auction</listingType>
 				<gift>false</gift>
 			</listingInfo>
 			<returnsAccepted>false</returnsAccepted>
+			<galleryPlusPictureURL>http://galleryplus.ebayimg.com/ws/web/181068621835_1_0_1.jpg</galleryPlusPictureURL>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>170977990863</itemId>
+			<title>Sideshow Collectibles Exclusive Legolas Lord of The Rings 12&quot; figure 1/6 NIB</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>75708</categoryId>
+				<categoryName>TV, Movie &amp; Video Games</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs4.ebaystatic.com/m/ma5sbWKWt2rbm84SqKFYhuQ/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Sideshow-Collectibles-Exclusive-Legolas-Lord-Rings-12-figure-1-6-NIB-/170977990863?pt=US_Action_Figures</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>92835</postalCode>
+			<location>Fullerton,CA,USA</location>
+			<country>US</country>
+			<shippingInfo>
+				<shippingType>Calculated</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<expeditedShipping>true</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>3</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">47.0</currentPrice>
+				<convertedCurrentPrice currencyId="USD">47.0</convertedCurrentPrice>
+				<bidCount>0</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT2H4M58S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>true</buyItNowAvailable>
+				<buyItNowPrice currencyId="USD">99.0</buyItNowPrice>
+				<convertedBuyItNowPrice currencyId="USD">99.0</convertedBuyItNowPrice>
+				<startTime>2013-01-20T19:56:45.000Z</startTime>
+				<endTime>2013-01-25T19:56:45.000Z</endTime>
+				<listingType>AuctionWithBIN</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>false</returnsAccepted>
 			<condition>
-				<conditionId>3000</conditionId>
-				<conditionDisplayName>Used</conditionDisplayName>
+				<conditionId>1000</conditionId>
+				<conditionDisplayName>New</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>false</isMultiVariationListing>
+			<topRatedListing>false</topRatedListing>
+		</item>
+		<item>
+			<itemId>180902627821</itemId>
+			<title>Lord of the Ring Gold Stainless Steel Men's Band Ring US Size 7, 8, 9, 10, 11</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>67681</categoryId>
+				<categoryName>Rings</categoryName>
+			</primaryCategory>
+			<secondaryCategory>
+				<categoryId>10297</categoryId>
+				<categoryName>Other</categoryName>
+			</secondaryCategory>
+			<galleryURL>http://thumbs2.ebaystatic.com/pict/1809026278214040_3.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Ring-Gold-Stainless-Steel-Mens-Band-Ring-US-Size-7-8-9-10-11-/180902627821?pt=Gemstone_Rings&amp;var=480158947226</viewItemURL>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<location>Hong Kong</location>
+			<country>HK</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">0.0</shippingServiceCost>
+				<shippingType>Free</shippingType>
+				<shipToLocations>US</shipToLocations>
+				<shipToLocations>CA</shipToLocations>
+				<shipToLocations>AU</shipToLocations>
+				<shipToLocations>JP</shipToLocations>
+				<shipToLocations>Europe</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>1</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">5.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">5.99</convertedCurrentPrice>
+				<sellingState>Active</sellingState>
+				<timeLeft>P9DT13H44M6S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2012-06-09T07:30:53.000Z</startTime>
+				<endTime>2013-02-04T07:35:53.000Z</endTime>
+				<listingType>FixedPrice</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>1500</conditionId>
+				<conditionDisplayName>New without tags</conditionDisplayName>
+			</condition>
+			<isMultiVariationListing>true</isMultiVariationListing>
+			<topRatedListing>true</topRatedListing>
+		</item>
+		<item>
+			<itemId>170976541968</itemId>
+			<title>The Lord Of The Rings: Extended Editon Trilogy (Blu-ray, 2012, 15 discs) MINT!</title>
+			<globalId>EBAY-US</globalId>
+			<primaryCategory>
+				<categoryId>617</categoryId>
+				<categoryName>DVDs &amp; Blu-ray Discs</categoryName>
+			</primaryCategory>
+			<galleryURL>http://thumbs1.ebaystatic.com/m/mwcm94QimmwMJ-nzDHFmNzQ/140.jpg</galleryURL>
+			<viewItemURL>http://www.ebay.com/itm/Lord-Rings-Extended-Editon-Trilogy-Blu-ray-2012-15-discs-MINT-/170976541968?pt=US_DVD_HD_DVD_Blu_ray</viewItemURL>
+			<productId type="ReferenceID">114575115</productId>
+			<paymentMethod>PayPal</paymentMethod>
+			<autoPay>false</autoPay>
+			<postalCode>CH638PH</postalCode>
+			<location>United Kingdom</location>
+			<country>GB</country>
+			<shippingInfo>
+				<shippingServiceCost currencyId="USD">3.0</shippingServiceCost>
+				<shippingType>Flat</shippingType>
+				<shipToLocations>Worldwide</shipToLocations>
+				<expeditedShipping>false</expeditedShipping>
+				<oneDayShippingAvailable>false</oneDayShippingAvailable>
+				<handlingTime>5</handlingTime>
+			</shippingInfo>
+			<sellingStatus>
+				<currentPrice currencyId="USD">49.99</currentPrice>
+				<convertedCurrentPrice currencyId="USD">49.99</convertedCurrentPrice>
+				<bidCount>0</bidCount>
+				<sellingState>Active</sellingState>
+				<timeLeft>P0DT3H8M53S</timeLeft>
+			</sellingStatus>
+			<listingInfo>
+				<bestOfferEnabled>false</bestOfferEnabled>
+				<buyItNowAvailable>false</buyItNowAvailable>
+				<startTime>2013-01-18T21:00:40.000Z</startTime>
+				<endTime>2013-01-25T21:00:40.000Z</endTime>
+				<listingType>Auction</listingType>
+				<gift>false</gift>
+			</listingInfo>
+			<returnsAccepted>true</returnsAccepted>
+			<condition>
+				<conditionId>2750</conditionId>
+				<conditionDisplayName>Like New</conditionDisplayName>
 			</condition>
 			<isMultiVariationListing>false</isMultiVariationListing>
 			<topRatedListing>false</topRatedListing>
 		</item>
 	</searchResult>
 	<paginationOutput>
-		<totalPages>17413</totalPages>
-		<totalEntries>87064</totalEntries>
+		<totalPages>4212</totalPages>
+		<totalEntries>63176</totalEntries>
 		<pageNumber>1</pageNumber>
-		<entriesPerPage>5</entriesPerPage>
+		<entriesPerPage>15</entriesPerPage>
 	</paginationOutput>
-	<itemSearchURL>http://www.ebay.com/sch/i.html?_nkw=simon&amp;_ddo=1&amp;_ipg=5&amp;_pgn=1</itemSearchURL>
+	<itemSearchURL>http://www.ebay.com/sch/i.html?_nkw=lord+of+the+rings&amp;_ddo=1&amp;_ipg=15&amp;_pgn=1</itemSearchURL>
 </findItemsByKeywordsResponse>
